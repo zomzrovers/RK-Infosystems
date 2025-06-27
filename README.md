@@ -1,4 +1,4 @@
-# RK Infosystems Finance Analyst Project
+# Strategic Financial Modeling for Mid-Cap Investments
 
 This project covers credit risk modeling, asset monitoring dashboards, portfolio rebalancing, and revenue forecasting for mid-cap APAC investment analysis.
 
